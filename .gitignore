@@ -1,0 +1,49 @@
+# Java
+*.class
+*.log
+*.ctxt
+hs_err_pid*
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Databases and temporary files
+*.db
+*.sqlite
+*.bak
+*.tmp
+*.lock
+
+# Docker
+*.pid
+*.seed
+.env
+
+# JavaFX cache or runtime folders
+.cache/
+logs/
